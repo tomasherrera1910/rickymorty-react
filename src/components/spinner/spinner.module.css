@@ -1,0 +1,16 @@
+.spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  animation: spin 1.5s ease infinite;
+  margin-top: 4rem;
+}
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}

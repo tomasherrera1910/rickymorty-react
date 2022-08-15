@@ -1,0 +1,23 @@
+.buttonContainer {
+  text-align: center;
+  margin-top: 20px;
+}
+.button {
+  text-decoration: none;
+  margin: 0px 8px;
+  color: darkslategray;
+  border:1px solid #009500;
+  font-family: monospace;
+  font-size: 1.2rem;
+  padding: 4px;
+  background-color: lightgoldenrodyellow;
+  border-radius: 16px;
+  transition: 0.3s ease;
+  cursor: pointer;
+}
+.button:hover {
+  color: green;
+  border: 1px solid #116111;
+  background-color: lightyellow;
+  box-shadow: 1px 3px 4px 1px #000;
+}

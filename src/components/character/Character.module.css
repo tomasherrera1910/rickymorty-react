@@ -1,0 +1,15 @@
+.imageStyle {
+  border-radius: 15px;
+  background-color: aliceblue;
+}
+.imageStyle:hover {
+  opacity: 0.8;
+  box-shadow: 1px 1px 1px darkslategray;
+}
+
+.textStyle {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 0.5rem;
+  list-style: none;
+  text-align: center;
+}

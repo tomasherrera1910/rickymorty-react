@@ -1,0 +1,32 @@
+.imageStyle {
+  border-radius: 12%;
+  margin-top: 5%;
+}
+
+.cardStyle {
+  text-align: center;
+}
+.list {
+  list-style: none;
+}
+.alive {
+  color: greenyellow;
+  display: inline;
+}
+.dead {
+  color: red;
+  display: inline;
+}
+.unknown {
+  color: orange;
+  display: inline;
+}
+.link {
+  cursor: pointer;
+  text-decoration: none;
+  color: lightgoldenrodyellow;
+  transition: 0.3s ease;
+}
+.link:hover {
+  color: yellow;
+}

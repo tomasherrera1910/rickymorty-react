@@ -1,0 +1,15 @@
+.charactersGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 240px);
+  gap: 20px;
+  padding: 20px;
+  justify-content: center;
+}
+.noResults {
+  text-align: center;
+  color: red;
+}
+.noResultsH3 {
+  text-align: center;
+  color: white;
+}

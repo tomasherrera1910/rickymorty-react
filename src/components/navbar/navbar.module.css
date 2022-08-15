@@ -1,0 +1,14 @@
+.logo {
+  width: 10rem;
+  height: auto;
+}
+
+.logo:hover {
+  background-image: url("../../assets/LogoColor.png");
+  background-size: 10.1rem;
+}
+.logoBox {
+  display: flex;
+  justify-content: center;
+  background-color: rgba(50, 50, 50);
+}
